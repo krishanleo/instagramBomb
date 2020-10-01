@@ -1,4 +1,4 @@
-instagramBomb
+InstagramHackingCourse
 =============
 
 Hack of zurb/flickrbomb as a training excercise to Backbone.js. All credit goes to https://github.com/zurb for the original concept and image assets
